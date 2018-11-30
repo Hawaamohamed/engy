@@ -1,0 +1,138 @@
+.dropdown-menu > li > a{color: #af2424}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+   
+    background-color: #d222ae;
+}
+
+#con{
+	width:690px;
+	height:500px;
+	margin:5px 100px 100px 400px;
+	padding-left:190;
+	background:#00FFFF;
+}
+.con{
+	width:600px;
+	height:500px;
+	margin:5px 100px 100px 400px;
+	padding-left:190;
+	background:#00FFFF;
+}
+.header{
+	width:700px;
+	height:50px;
+	color:#FFF;
+	margin-left:-200px;
+	margin-right:-100px;
+	padding-left:230px;
+	font:italic;
+	font-size:bold;
+	background-color:#800000;
+}
+.head{
+
+	height:50px;
+	color:#FFF;
+         text-align:center;
+          padding-top:10px;
+         margin-top:0%;
+	font:italic;
+	font-size:bold;
+	background-color:#800000;
+        }
+.inpt{
+	width:300px;
+	height:150px;
+	margin-left:10px;
+        text-align:center;
+	margin-top:30px;
+        color: #808000;
+        font-size:22px;
+        padding-top:3%;
+        padding-bottom:3%;
+         font:italic;
+         margin-right:5%;
+
+
+}
+.rad
+
+{
+
+ 	width:30px;
+	height:30px;
+
+         margin-top:20px;
+}
+.inp{
+ font-size:22px;
+  margin-right:14%;
+
+  color:#800080;
+   font:italic;
+   margin-bottomt:5px;
+}
+
+.div{
+  font-size:22px;
+  margin-left:6%;
+    font:italic;
+  color:#800080;
+  margin-bottom:5px;
+  margin-top:30px;
+}
+
+.tab{
+      margin-left:25%;
+       margin-top:5%;
+
+
+
+
+
+
+}
+table,tr,td,th{
+	color:#FFF;
+         font:italic;
+	background:#808080;
+        width:70px;
+        height:50px;
+
+
+}
+.sub{
+	color:#FFF;
+	font-size:25px;
+	background:red;
+   	width:190px;
+        height:50px;
+	margin-top:4%;
+        margin-right:30px;
+        margin-bottom:15px;
+        background:#800000;
+        font:italic;
+
+         }
+.chalid{
+
+
+        width:300px;
+        height:50px;
+        font:italic;
+        text-align:center;
+        margin-top:10px;
+        margin-right:30px;
+        margin-right:20px;
+        color:purple;
+
+}
+thead th{
+color:#FFF;
+
+ background:#800000;
+ font:italic;
+ font-size:22px;
+
+}
+

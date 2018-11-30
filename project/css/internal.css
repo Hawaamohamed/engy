@@ -1,0 +1,79 @@
+/* start breadcrumb  */
+.bread{background:#EEE}
+
+.bread .breadcrumb 
+{
+	background:none;
+	padding-top:10px 0;
+	margin-bottom:0;
+}
+/* end breadcrumb  */
+
+/* start about  */
+
+.aboutUs{
+	padding-top:30px;
+	padding-bottom:30px
+}
+.aboutUs h2{font-weight:bold;font-size:52px;color:#333}
+
+.aboutUs hr{width:70%}
+/* end about  */
+
+/* start feature */
+
+.about-feature{
+	padding-top:30px;
+	padding-bottom:30px
+
+}
+/* end feature  */
+
+/* start contact */
+.About-contact
+{
+    padding-top:30px;
+	padding-bottom:30px
+
+}
+/* end contact */
+
+/* end page  about */
+
+/*start page  question */
+
+.head-quest , .question{padding-top:30px;padding-bottom:30px}
+.head-quest .h1 { font-weight:bold;font-size:42px;color:#333}
+.head-quest hr{width:70%}
+
+.question .panel-heading {
+	padding:20px;
+}
+
+.question .panel-heading a:after
+{
+	font-family: 'Glyphicons Halflings';
+	content: "\e114";
+	color:#333;
+	float:right;
+	
+}
+
+.question .panel-heading  a.collapsed:after
+{
+	content:"\e080";
+	color:#999;	
+}
+.question .panel-heading  a.f:after
+{
+	font-family: 'Glyphicons Halflings';
+	content: "\e114";
+	color:#333;
+	float:right;
+	
+} 
+/* end page  question */
+
+	
+/* start page FAQ */
+/* end page FAQ */
